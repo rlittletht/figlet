@@ -19,9 +19,9 @@
 SHELL = /bin/sh
 
 # The C compiler and linker to use
-CC	= gcc
+CC	= cl.exe
 CFLAGS	= -g -O2 -Wall
-LD	= gcc
+LD	= link
 LDFLAGS =
 
 # Feature flags:
